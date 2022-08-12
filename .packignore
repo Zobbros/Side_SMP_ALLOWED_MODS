@@ -1,0 +1,15 @@
+.minecraft/.optifine
+.minecraft/.replay_cache
+.minecraft/XaeroWorldMap
+.minecraft/coremods
+.minecraft/crash-reports
+.minecraft/essential
+.minecraft/logs
+.minecraft/profilekeys
+.minecraft/replay_recordings
+.minecraft/saves
+.minecraft/screenshots
+.minecraft/server-resource-packs
+.minecraft/shaderpacks
+.minecraft/texturepacks
+.minecraft/usercache.json

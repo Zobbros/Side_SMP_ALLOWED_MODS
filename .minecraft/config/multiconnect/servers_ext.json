@@ -1,0 +1,16 @@
+{
+  "servers": {
+    "s.side.lv:25565": {
+      "forcedProtocol": -1
+    },
+    "172.18.0.1:10002": {
+      "forcedProtocol": -1
+    },
+    "mc.side.lv:25565": {
+      "forcedProtocol": 758
+    },
+    "13131:25565": {
+      "forcedProtocol": -1
+    }
+  }
+}

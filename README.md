@@ -1,6 +1,6 @@
 #   Side SMP ALLOWED MODS
 <p align="center">
-  <img width="100" height="100" src="/side_logo.jpg">
+  <img width="100" height="100" src="/side_logo_optifine.jpg">
 </p>
 
 This repository (hereinafter referred to as “repo”) contains all allowed mods to use in Side SMP server.

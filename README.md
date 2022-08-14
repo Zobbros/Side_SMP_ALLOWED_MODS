@@ -5,6 +5,7 @@
 
 This repository (hereinafter referred to as “repo”) contains all allowed mods to use in Side SMP server.
 
+---
 
 > ### **Optimization**:
 +	Sodium - Nerfed optifine on sterioids;
@@ -103,7 +104,7 @@ This repository (hereinafter referred to as “repo”) contains all allowed mod
 +	AdvancementInfo - Make it easier to see which advancements you have and what's missing;
 +	Replay Mod - Records demo like video while playing.
 
-
+---
 
 If you want to use all the mods in this repo, you can download entire "Source code" or in Releases .ZIP file of any branch (Sodium or Optifine) and paste contains of [.minecraft] in your Minecraft home directory.
 

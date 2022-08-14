@@ -106,8 +106,10 @@ This repository (hereinafter referred to as “repo”) contains all allowed mod
 
 ---
 
-If you want to use all the mods in this repo, you can download entire "Source code" or in Releases .ZIP file of any branch (Sodium or Optifine) and paste contains of [.minecraft] in your Minecraft home directory.
+If you want to use all the mods in this repo, you can download entire "Source code" or in [Releases](https://github.com/Zobbros/Side_SMP_ALLOWED_MODS/releases) .ZIP file of any branch (Sodium or Optifine) and paste contains of [[.minecraft]](https://github.com/Zobbros/Side_SMP_ALLOWED_MODS/tree/Sodium/.minecraft) in your Minecraft home directory.
 
 P.S. These branches exists just to see which mods does it include.
 
 P.S.S. You are currently in Sodium branch.
+
+[Click here to change to Optifine branch!](https://github.com/Zobbros/Side_SMP_ALLOWED_MODS/tree/Optifine)

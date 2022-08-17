@@ -78,6 +78,7 @@ This repository (hereinafter referred to as “repo”) contains all allowed mod
 +	Inventory sorter - With single mouse click, sorts your inventory;
 +	Item Scroller - Self explanatory;
 +	Light Overlay - Adds light overlay to blocks. Usefull to find where mobs can or can't spawn;
++	Mini-HUD - Overall usefull mod, which does a lot of things for technicall Minecrafters;
 +	Litematica - Schematica mod (printer and auto-place functions are DISALLOWED!);
 +	Mixin Conflict Helper - Alerts when at least two mods conflict;
 +	MultiConnect - Allows you to connect to servers on multiple Minecraft versions;

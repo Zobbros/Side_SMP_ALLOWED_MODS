@@ -31,7 +31,6 @@ This repository (hereinafter referred to as “repo”) contains all allowed mod
 > ### **Mandatory**:
 +	Simple Voice Chat - Adds VoIP functionallity to game;
 +	Mod Menu - see mods installed in game;
-+ Status - Adds User status indicator in TAB to see if player is recording, streaming, or AFK (Players have to set status manually).
 
 > ### **APIs and Librarys** (All recomended for better mod support):
 +	Fabric-API;
@@ -84,7 +83,8 @@ This repository (hereinafter referred to as “repo”) contains all allowed mod
 +	Not Enough Crashes - Minecraft doesn't crash, but send you to title screen with most recent log;
 +	Status Effect Timer - Overlay a timer on the Vanilla status Effect HUD icons;
 +	ToolTip Fix - Fixes ToolTips running off the screen;
-+	Xaero's World Map - Fullscreen map to place waypoints. P.S. Mini-maps are DISALLOWED!;
++	Xaero's World Map - Fullscreen map. P.S. Mini-maps are DISALLOWED, except the following!;
++ Xaero's Minimap (Fair-play Edition) - Includes Waypoint's but doesn't render entities and caves;
 +	Your options shall be respected (YOSBR) - Other mods doesn't interfere with other mod keybinds;
 +	Shulker Box Tooltip - Adds GUI in your invenotry when hovering your mouse over shulker box, to see what's inside;
 +	Roughly Enough Items - Adds Not/Just Enough Items style side bar in inventory, to see item crafting recipe.
@@ -104,6 +104,7 @@ This repository (hereinafter referred to as “repo”) contains all allowed mod
 +	Replay Mod - Records demo like video while playing.
 +	Replay Voice Chat - Records Voice chat for Replay Mod;
 +	No Chat Reports - Bypasses newly implomented Mojang/Micrososft chat reporting.
++	Status - Adds User status indicator in TAB to see if player is recording, streaming, or AFK (Players have to set status manually and there is incompatibility with Feather client).
 
 ---
 

@@ -82,3 +82,7 @@ P.S. These branches exists just to see which mods does it include.
 P.S.S. You are currently in Optifine branch.
 
 [Click here to change to Sodium branch!](https://github.com/Zobbros/Side_SMP_ALLOWED_MODS/tree/Sodium)
+
+<p align="center">
+  <img width="515" height="683" src="https://media.discordapp.net/attachments/776126644711587930/1010535149252902973/unknown.png?width=515&height=683">
+</p>

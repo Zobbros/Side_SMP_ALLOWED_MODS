@@ -31,7 +31,6 @@ This repository (hereinafter referred to as “repo”) contains all allowed mod
 > ### **Mandatory**:
 +	Simple Voice Chat - Adds VoIP functionallity to game;
 +	Mod Menu - see mods installed in game;
-+	No Chat Reports - Bypasses newly implomented Mojang/Micrososft chat reporting.
 + Status - Adds User status indicator in TAB to see if player is recording, streaming, or AFK (Players have to set status manually).
 
 > ### **APIs and Librarys** (All recomended for better mod support):
@@ -104,6 +103,7 @@ This repository (hereinafter referred to as “repo”) contains all allowed mod
 +	AdvancementInfo - Make it easier to see which advancements you have and what's missing;
 +	Replay Mod - Records demo like video while playing.
 +	Replay Voice Chat - Records Voice chat for Replay Mod;
++	No Chat Reports - Bypasses newly implomented Mojang/Micrososft chat reporting.
 
 ---
 

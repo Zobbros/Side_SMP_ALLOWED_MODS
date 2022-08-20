@@ -85,9 +85,6 @@ This repository (hereinafter referred to as “repo”) contains all allowed mod
 +	Not Enough Crashes - Minecraft doesn't crash, but send you to title screen with most recent log;
 +	Status Effect Timer - Overlay a timer on the Vanilla status Effect HUD icons;
 +	ToolTip Fix - Fixes ToolTips running off the screen;
-+	What The Hell Is That (wthit) - Adds GUI when looking at block or entity;
-+	ToroHealth Damage Indicators - Adds GUI when looking at entity;
-+	Wthit Plugins - Usefull plugins for wthit;
 +	Xaero's World Map - Fullscreen map to place waypoints. P.S. Mini-maps are DISALLOWED!;
 +	Your options shall be respected (YOSBR) - Other mods doesn't interfere with other mod keybinds;
 +	Shulker Box Tooltip - Adds GUI in your invenotry when hovering your mouse over shulker box, to see what's inside;

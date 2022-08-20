@@ -70,8 +70,9 @@ This repository (hereinafter referred to as “repo”) contains all allowed mod
 +	MidnightControls - Controler support for Minecraft Java versions;
 +	No Telemetry - Self explanatory;
 +	AdvancementInfo - Make it easier to see which advancements you have and what's missing;
-+	Replay Mod - Records demo like video while playing.
-+ Capes - Capes? Yes, yes, but more and for free!
++	Replay Mod - Records demo like video while playing;
++	Replay Voice Chat - Records Voice chat for Replay Mod;
++ Capes - Capes? Yes, yes, but more and for free!;
 
 ---
 

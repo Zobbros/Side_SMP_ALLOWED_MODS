@@ -87,7 +87,8 @@ This repository (hereinafter referred to as “repo”) contains all allowed mod
 + Xaero's Minimap (Fair-play Edition) - Includes Waypoint's but doesn't render entities and caves;
 +	Your options shall be respected (YOSBR) - Other mods doesn't interfere with other mod keybinds;
 +	Shulker Box Tooltip - Adds GUI in your invenotry when hovering your mouse over shulker box, to see what's inside;
-+	Roughly Enough Items - Adds Not/Just Enough Items style side bar in inventory, to see item crafting recipe.
++	Roughly Enough Items - Adds Not/Just Enough Items style side bar in inventory, to see item crafting recipe;
++	Auto-Clicker - Use it only if you are AFK (Away From Keyboard) in mob farms.
 
 > ### **Graphic tweaks**:
 +	3D Skin Layers - Adds depth to Minecraft skins;

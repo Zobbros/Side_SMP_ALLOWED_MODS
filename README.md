@@ -89,6 +89,8 @@ This repository (hereinafter referred to as “repo”) contains all allowed mod
 +	Shulker Box Tooltip - Adds GUI in your invenotry when hovering your mouse over shulker box, to see what's inside;
 +	Roughly Enough Items - Adds Not/Just Enough Items style side bar in inventory, to see item crafting recipe;
 +	Auto-Clicker - Use it only if you are AFK (Away From Keyboard) in mob farms.
++	HotbarCycle - Changes your hotbar depending on what you have in inventory. (While playing on Side Network Servers YOU CAN BE BANNED!);
++	Inventory Profiles Next - Actually working Inventory Sorter mod, which also can replace your items, which are nearly broken. (While playing on Side Network Servers YOU CAN BE BANNED!)
 
 > ### **Graphic tweaks**:
 +	3D Skin Layers - Adds depth to Minecraft skins;
